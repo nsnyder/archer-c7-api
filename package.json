@@ -1,0 +1,27 @@
+{
+  "name": "archer-c7-api",
+  "version": "0.0.1",
+  "description": "A package to get some basic information from the TP-Link Archer C7 router.",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsnyder/archer-c7-api.git"
+  },
+  "keywords": [
+    "tp-link",
+    "archerc7"
+  ],
+  "author": "Nathan Snyder <nathan@snydern.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nsnyder/archer-c7-api/issues"
+  },
+  "homepage": "https://github.com/nsnyder/archer-c7-api#readme",
+  "type": "module",
+  "devDependencies": {
+    "axios": "^0.20.0"
+  }
+}
