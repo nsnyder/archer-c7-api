@@ -1,4 +1,4 @@
-import ArcherC7 from './ArcherC7.js';
+import ArcherC7 from './lib/ArcherC7.js';
 
 const example = async function() {
   const archer = new ArcherC7('http://192.168.1.1', 'email', 'password');
