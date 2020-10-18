@@ -1,6 +1,6 @@
 {
   "name": "archer-c7-api",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "A package to get some basic information from the TP-Link Archer C7 router.",
   "main": "main.js",
   "scripts": {
@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/nsnyder/archer-c7-api#readme",
   "type": "module",
-  "devDependencies": {
+  "dependencies": {
     "axios": "^0.20.0"
   }
 }
