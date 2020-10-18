@@ -1,1 +1,3 @@
-module.exports = require('./lib/ArcherC7');
+import ArcherC7 from './lib/ArcherC7';
+
+module.exports = ArcherC7;
