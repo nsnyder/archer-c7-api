@@ -1,6 +1,6 @@
 {
   "name": "archer-c7-api",
-  "version": "0.0.16",
+  "version": "0.0.17",
   "description": "A package to get some basic information from the TP-Link Archer C7 router.",
   "main": "main.js",
   "scripts": {
